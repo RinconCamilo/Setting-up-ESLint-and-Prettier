@@ -8,7 +8,7 @@
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "build": "webpack",
-    "start": "webpack serve"
+    "start": "webpack serve --open"
   },
   "repository": {
     "type": "git",
